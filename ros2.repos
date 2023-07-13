@@ -411,3 +411,11 @@ repositories:
     type: git
     url: https://github.com/ros2/yaml_cpp_vendor.git
     version: humble
+  ros2/diagnostics:
+    type: git
+    url: https://github.com/ros/diagnostics.git
+    version: ros2
+  ros2/bond_core:
+    type: git
+    url: https://github.com/ros/bond_core.git
+    version: ros2
